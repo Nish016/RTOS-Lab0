@@ -1,9 +1,5 @@
 # RTOS Lab session 0
 
-### Nishkarsh Dahiya
-### 500069090
-### 52 B1
-
 The following repository consist of the codes for rtos lab session 0 in C language
 
 ## 1. Memorymap.c
